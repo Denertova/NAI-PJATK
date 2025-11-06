@@ -1,7 +1,7 @@
 """
 Gra w Podział (Division Game) - deterministyczna gra dwuosobowa o sumie zerowej.
 
-Autorzy: Krystyna Tokarska, Klaudia Denert
+Autorzy: Klaudia Denert
 
 Instrukcja przygotowania środowiska:
 1. Utwórz wirtualne środowisko Python
