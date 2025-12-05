@@ -35,11 +35,14 @@ W projekcie zaprezentowano:
 ---
 
 ## Wymagania
-- Python 3.9+  
-- Biblioteki:
+- scikit-learn
+- pandas
+- numpy
+- matplotlib
+- joblib
  
  ```bash
-  pip install numpy pandas matplotlib scikit-learn
+  pip install numpy pandas matplotlib scikit-learn joblib
   ```
 
 ## Instrukcja użycia
